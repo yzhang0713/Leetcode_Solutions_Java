@@ -2,7 +2,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
-class CarPoolingTest {
+public class CarPoolingTest {
 
     private static CarPooling carPooling;
 
