@@ -1,6 +1,9 @@
 import java.util.PriorityQueue;
 import java.util.Comparator;
 
+/**
+ * Problem 1094. Car Pooling
+ */
 public class CarPooling {
 
     public CarPooling() {
