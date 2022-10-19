@@ -3,8 +3,8 @@ import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
 class BinarySearchTest {
-    public static BinarySearch binarySearch;
-    public static int[] numbers;
+    private static BinarySearch binarySearch;
+    private static int[] numbers;
 
     @BeforeAll
     public static void setup() {
